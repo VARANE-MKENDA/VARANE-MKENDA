@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Privance mkenda</h1>
 <h3 align="center">I am progress data scientist</h3>
 
-- 🔭 I’m currently working on [building models](https://salary-predictor-3.onrender.com)
+- 🔭 I’m currently working on building modeels:<br>[salary prection model](https://salary-predictor-3.onrender.com)
 
 <h3 align="left">Connect with me:0679844385</h3>
 <p align="left">
